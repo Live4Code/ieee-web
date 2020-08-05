@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ieee-web/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ieee-web/static/js/main.9a4a45d7.chunk.js",
+    "main.js.map": "/ieee-web/static/js/main.9a4a45d7.chunk.js.map",
+    "runtime-main.js": "/ieee-web/static/js/runtime-main.d366f01a.js",
+    "runtime-main.js.map": "/ieee-web/static/js/runtime-main.d366f01a.js.map",
+    "static/js/2.3063f592.chunk.js": "/ieee-web/static/js/2.3063f592.chunk.js",
+    "static/js/2.3063f592.chunk.js.map": "/ieee-web/static/js/2.3063f592.chunk.js.map",
+    "index.html": "/ieee-web/index.html",
+    "precache-manifest.8628292ca677372f2f24e5165657f9ab.js": "/ieee-web/precache-manifest.8628292ca677372f2f24e5165657f9ab.js",
+    "service-worker.js": "/ieee-web/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ieee-web/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3063f592.chunk.js.LICENSE.txt": "/ieee-web/static/js/2.3063f592.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ieee-web/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d366f01a.js",
+    "static/js/2.3063f592.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9a4a45d7.chunk.js"
+  ]
+}
